@@ -1,0 +1,26 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+The command to initialize a repository is:
+
+- git init
+
+It create the structure and file necessary to git.
+
+Showing the status of the git repository:
+
+- git status
+
+Adding files to git; before to commit they are added to the staging area:
+
+- git add
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+
+
+
+
+
+
