@@ -38,3 +38,7 @@ The branch are like the trunk on the svn.
 How do the diagrams help you visualize the branch structure?
 
 We can see the branch history, from which commit start. It also help to see how many "distance" there is from the master
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Put together two branch as result a single branch. We represent it as a new commit that point to the head of the two merged branch
