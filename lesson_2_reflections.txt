@@ -42,3 +42,8 @@ We can see the branch history, from which commit start. It also help to see how 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Put together two branch as result a single branch. We represent it as a new commit that point to the head of the two merged branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic mode merge all the files that don't conflict so in case of many files is a rapid solution.
+Manual is slow and it work well only when there are conflicts.
